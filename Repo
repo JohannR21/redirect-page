@@ -1,0 +1,8 @@
+{
+  "name": "Mon Repo",
+  "description": "Extensions perso pour Cloudstream",
+  "assets": [],
+  "plugins": [
+    "https://ton-site.com/plugin1.cs3"
+  ]
+}
